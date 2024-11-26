@@ -2,7 +2,7 @@
 #include<stdlib.h>
 int main(){
 
-	printf("New one 111 111");
+	printf("New twooo 111 111");
 
 
 	return 0;
